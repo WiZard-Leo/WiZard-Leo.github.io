@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpagedemo"]=self["webpackChunkpagedemo"]||[]).push([[189],{3189:function(e,n,r){r.r(n),r.d(n,{default:function(){return l}});var u=r(3396);const a=(0,u._)("h1",null,"This is biography page",-1),t=[a];function i(e,n){return(0,u.wg)(),(0,u.iD)("div",null,t)}var s=r(89);const c={},o=(0,s.Z)(c,[["render",i]]);var l=o}}]);
+//# sourceMappingURL=189.352084cd.js.map

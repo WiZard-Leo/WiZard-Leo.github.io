@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpagedemo"]=self["webpackChunkpagedemo"]||[]).push([[953],{953:function(e,n,t){t.r(n),t.d(n,{default:function(){return o}});var u=t(3396);const a=(0,u._)("h1",null,"This is activaties page",-1),r=[a];function i(e,n){return(0,u.wg)(),(0,u.iD)("div",null,r)}var s=t(89);const c={},l=(0,s.Z)(c,[["render",i]]);var o=l}}]);
+//# sourceMappingURL=953.3b0d8f33.js.map
